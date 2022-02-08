@@ -1,3 +1,5 @@
+package com.umil;
+
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class MilLib {

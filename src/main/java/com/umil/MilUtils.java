@@ -1,3 +1,6 @@
+package com.umil;
+
+import com.umil.MilLib;
 import org.bukkit.Bukkit;
 import org.bukkit.command.CommandSender;
 
